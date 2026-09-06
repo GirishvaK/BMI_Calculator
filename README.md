@@ -116,11 +116,10 @@ button {
 }
 ```
 ```
-<img width="695" height="594" alt="444616195-77831423-50e7-4387-b7b8-77881f529653" src="https://github.com/user-attachments/assets/ad24bffb-a48d-4e1c-b379-74fdb8aa53fa" />
-```
-```
-
 ## OUTPUT
+```
+<img width="695" height="594" alt="444616195-77831423-50e7-4387-b7b8-77881f529653" src="https://github.com/user-attachments/assets/33008311-77a0-4688-83db-52444ce7847d" />
+```
 
 
 ## RESULT
