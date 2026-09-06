@@ -86,6 +86,7 @@ export default App;
 ```
 ##App.css
 ```
+```
 .bmi-container {
   text-align: center;
   margin-top: 50px;
@@ -113,7 +114,6 @@ button {
   margin-top: 20px;
   font-size: 20px;
 }
-```
 ```
 ```
 <img width="695" height="594" alt="444616195-77831423-50e7-4387-b7b8-77881f529653" src="https://github.com/user-attachments/assets/ad24bffb-a48d-4e1c-b379-74fdb8aa53fa" />
